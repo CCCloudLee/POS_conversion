@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/e9408/Desktop/HW1 E94081149/HW1-4
+vPOS
+Z0 !s110 1618998118
+!i10b 1
+!s100 m9`kj0andmR6lgO`RXH<V2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhcXhF[9J<CYmSD;8KS2nb1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/e9408/Desktop/HW1 E94081149/HW1-5
+w1618998093
+8C:/Users/e9408/Desktop/HW1 E94081149/HW1-5/POS.v
+FC:/Users/e9408/Desktop/HW1 E94081149/HW1-5/POS.v
+!i122 0
+L0 3 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1618998117.000000
+!s107 C:/Users/e9408/Desktop/HW1 E94081149/HW1-5/POS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/e9408/Desktop/HW1 E94081149/HW1-5/POS.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@p@o@s
+vtest
+R0
+!i10b 1
+!s100 Y3V<OM21zM5c6D0DEzVKD2
+R1
+IIz]9O_nJg0Va8OMjEKDZe1
+R2
+R3
+w1618967700
+8C:/Users/e9408/Desktop/HW1 E94081149/HW1-5/testbench.v
+FC:/Users/e9408/Desktop/HW1 E94081149/HW1-5/testbench.v
+!i122 1
+L0 2 19
+R4
+r1
+!s85 0
+31
+!s108 1618998118.000000
+!s107 C:/Users/e9408/Desktop/HW1 E94081149/HW1-5/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/e9408/Desktop/HW1 E94081149/HW1-5/testbench.v|
+!i113 1
+R5
+R6
